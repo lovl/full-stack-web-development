@@ -1,0 +1,23 @@
+
+Ionic Notes
+-------------------------------------------------------
+
+Creating an Ionic project
+
+> ionic start conFusion sidemenu
+
+> ionic serve
+
+> ionic serve --lab
+
+-------------------------------------------------------
+
+Location: C:\Development\Coursera\Ionic
+
+Folder: json-server
+
+> json-server --watch db.json
+
+Folder: conFusion
+
+> ionic serve --lab
