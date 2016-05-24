@@ -1,0 +1,17 @@
+{
+  "name": "node-mongodb",
+  "version": "1.0.0",
+  "description": "Node MongoDb Example",
+  "main": "server.js",
+  "dependencies": {
+    "assert": "^1.3.0",
+    "mongodb": "^2.1.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Doug Duril",
+  "license": "ISC"
+}
