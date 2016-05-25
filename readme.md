@@ -4,7 +4,7 @@ Part of the Coursera Full Stack Web Development Specialization offered through t
 
 Along the way, students are introduced to various frameworks, libraries, tools and utilities in a logical progression and complete many practice exercises and projects. All of the software required for the completion of these projects is free and/or open source, but there are also paid options for some of the text editors.
 
-Additional resources are provided for further study and exploration, as well as, full support documentation for course topics.
+Additional resources are provided for further exploration and documentation of topics covered.
 
 ### Coursework Includes:
 
