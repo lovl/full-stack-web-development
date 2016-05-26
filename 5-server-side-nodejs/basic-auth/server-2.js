@@ -35,6 +35,7 @@ function auth (req, res, next) {
     }
     else {
         if (req.signedCookies.user === 'admin') {
+            console.log(req.signedCookies);
             next();
         }
         else {
