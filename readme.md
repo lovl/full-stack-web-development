@@ -15,6 +15,10 @@ Additional resources are provided for further exploration and documentation of t
 - **Server-side Development with NodeJS** 
 - **Capstone Project**
 
+### Technology Resources
+
+	// add hyperlinks for main technologies covered.
+
 
 
 
