@@ -17,15 +17,18 @@ Additional resources are provided for further exploration and documentation of t
 
 ### Technology Resources
 
-- **<a href="https://angularjs.org/" target="_blank" title="AngularJS">AngularJS</a>**
-- **<a href="https://cordova.apache.org/" target="_blank" title="Apache Cordova">Apache Cordova</a>**
-- **<a href="http://getbootstrap.com/" target="_blank" title="Bootstrap">Bootstrap</a>**
-- **<a href="http://bower.io/" target="_blank" title="Bower">Bower</a>**
-- **<a href="http://ionicframework.com/" target="_blank" title="Ionic">Ionic</a>**
-- **<a href="https://jquery.com/" target="_blank" title="jQuery">jQuery</a>**
-- **<a href="https://www.mongodb.com/" target="_blank" title="MongoDB">MongoDB</a>**
-- **<a href="https://nodejs.org/" target="_blank" title="Node">Node.js</a>**
-- **<a href="https://www.npmjs.com/" target="_blank" title="npm">npm</a>**
+- **<a href="https://angularjs.org/" target="_blank">AngularJS</a>**
+- **<a href="https://cordova.apache.org/" target="_blank">Apache Cordova</a>**
+- **<a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>**
+- **<a href="http://bower.io/" target="_blank">Bower</a>**
+- **<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a>**
+- **<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">HTML</a>**
+- **<a href="http://ionicframework.com/" target="_blank">Ionic</a>**
+- **<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a>**
+- **<a href="https://jquery.com/" target="_blank">jQuery</a>**
+- **<a href="https://www.mongodb.com/" target="_blank">MongoDB</a>**
+- **<a href="https://nodejs.org/" target="_blank">Node.js</a>**
+- **<a href="https://www.npmjs.com/" target="_blank">npm</a>**
 
 
 
