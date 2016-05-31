@@ -17,7 +17,18 @@ Additional resources are provided for further exploration and documentation of t
 
 ### Technology Resources
 
-	// add hyperlinks for main technologies covered.
+- **<a href="https://angularjs.org/" target="_blank" title="AngularJS">AngularJS</a>**
+- **<a href="https://cordova.apache.org/" target="_blank" title="Apache Cordova">Apache Cordova</a>**
+- **<a href="http://getbootstrap.com/" target="_blank" title="Bootstrap">Bootstrap</a>**
+- **<a href="http://bower.io/" target="_blank" title="Bower">Bower</a>**
+- **<a href="http://ionicframework.com/" target="_blank" title="Ionic">Ionic</a>**
+- **<a href="https://jquery.com/" target="_blank" title="jQuery">jQuery</a>**
+- **<a href="https://www.mongodb.com/" target="_blank" title="MongoDB">MongoDB</a>**
+- **<a href="https://nodejs.org/" target="_blank" title="Node">Node.js</a>**
+- **<a href="https://www.npmjs.com/" target="_blank" title="npm">npm</a>**
+
+
+
 
 
 
